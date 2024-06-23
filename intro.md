@@ -1,4 +1,8 @@
 
+
+
+### to add submodules 
+
 ``` shell
 git init
 git remote add origin https://github.com/Biks2013/AITutorialsCollection.git
@@ -10,3 +14,19 @@ git commit -m "initial commit"
 git push -u origin master
 
 ``` 
+
+
+### to clone the complete repo including submodules
+
+
+``` shell
+git clone https://github.com/Biks2013/AITutorialsCollection.git
+cd AITutorialsCollection
+git submodule update --init --recursive
+``` 
+
+### alternatively 
+
+``` shell   
+git clone --recurse-submodules https://github.com/Biks2013/AITutorialsCollection.git
+```
