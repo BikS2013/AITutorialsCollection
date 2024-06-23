@@ -7,6 +7,6 @@ git submodule add https://github.com/langchain-ai/rag-from-scratch.git langchain
 git submodule add https://github.com/karpathy/nn-zero-to-hero.git karpathy/nn-zero-to-hero
 
 git commit -m "initial commit"
-git push -u origin main
+git push -u origin master
 
 ``` 
