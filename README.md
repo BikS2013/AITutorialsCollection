@@ -9,8 +9,7 @@
 ### Langchain
 [RAG From Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
 
-[RAG from Scratch - Overview Slides](https://docs.google.com/presentation/d/1C9IaAwHoWcc4RSTqo-pCoN3h0nCgqV2JEYZUJunv_9Q/edit#slide=id.p)
-
+[RAG from Scratch - Overview Slides](https://docs.google.com/presentation/d/1C9IaAwHoWcc4RSTqo-pCoN3h0nCgqV2JEYZUJunv_9Q/edit#slide=id.p)  
 [RAG from Scratch - Indexing Slides](https://docs.google.com/presentation/d/1MhsCqZs7wTX6P19TFnA9qRSlxH3u-1-0gWkhBiDG9lQ/edit#slide=id.p)
 
 [RAG from Scratch - Retrieval Slides](https://docs.google.com/presentation/d/124I8jlBRCbb0LAUhdmDwbn4nREqxSxZU1RF_eTGXUGc/edit#slide=id.g267060cc54f_0_0)
