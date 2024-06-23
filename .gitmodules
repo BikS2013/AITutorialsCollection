@@ -1,0 +1,9 @@
+[submodule "FullStackRetrieval-com/RetrievalTutorials"]
+	path = FullStackRetrieval-com/RetrievalTutorials
+	url = https://github.com/FullStackRetrieval-com/RetrievalTutorials.git
+[submodule "langchain-ai/rag-from-scratch"]
+	path = langchain-ai/rag-from-scratch
+	url = https://github.com/langchain-ai/rag-from-scratch.git
+[submodule "karpathy/nn-zero-to-hero"]
+	path = karpathy/nn-zero-to-hero
+	url = https://github.com/karpathy/nn-zero-to-hero.git
