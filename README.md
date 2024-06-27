@@ -42,3 +42,6 @@
 [Practical Deep Learning for Coders - the book](https://course.fast.ai/Resources/book.html)
 
 [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+### Aritra Sen
+[LangGraph](https://www.youtube.com/playlist?list=PLOrU905yPYXLwua9Ci5rXKA8iRz61bpg7)
