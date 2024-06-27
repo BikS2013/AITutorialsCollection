@@ -7,3 +7,6 @@
 [submodule "karpathy/nn-zero-to-hero"]
 	path = karpathy/nn-zero-to-hero
 	url = https://github.com/karpathy/nn-zero-to-hero.git
+[submodule "AritraSen/LLM_RAG_Model_Deployment"]
+	path = AritraSen/LLM_RAG_Model_Deployment
+	url = https://github.com/aritrasen87/LLM_RAG_Model_Deployment.git
