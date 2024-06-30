@@ -13,3 +13,6 @@
 [submodule "0xmerkle/lcel-deepdive-runnables"]
 	path = 0xmerkle/lcel-deepdive-runnables
 	url = https://github.com/0xmerkle/lcel-deepdive-runnables.git
+[submodule "Coding-Crashkurse/LCEL-Deepdive"]
+	path = Coding-Crashkurse/LCEL-Deepdive
+	url = https://github.com/Coding-Crashkurse/LCEL-Deepdive.git
