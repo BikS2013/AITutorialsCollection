@@ -45,3 +45,6 @@
 
 ### Aritra Sen
 [LangGraph](https://www.youtube.com/playlist?list=PLOrU905yPYXLwua9Ci5rXKA8iRz61bpg7)
+
+### Michael Daigler 
+[What are Runnables in Langchain Expression Language](https://www.youtube.com/watch?v=zREUGA_v3xc)

@@ -10,6 +10,8 @@ git submodule add https://github.com/FullStackRetrieval-com/RetrievalTutorials.g
 git submodule add https://github.com/langchain-ai/rag-from-scratch.git langchain-ai/rag-from-scratch
 git submodule add https://github.com/karpathy/nn-zero-to-hero.git karpathy/nn-zero-to-hero
 git submodule add https://github.com/aritrasen87/LLM_RAG_Model_Deployment.git AritraSen/LLM_RAG_Model_Deployment
+git submodule add https://github.com/0xmerkle/lcel-deepdive-runnables.git 0xmerkle/lcel-deepdive-runnables
+
 
 git commit -m "initial commit"
 git push -u origin master
