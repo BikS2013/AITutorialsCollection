@@ -10,3 +10,6 @@
 [submodule "AritraSen/LLM_RAG_Model_Deployment"]
 	path = AritraSen/LLM_RAG_Model_Deployment
 	url = https://github.com/aritrasen87/LLM_RAG_Model_Deployment.git
+[submodule "0xmerkle/lcel-deepdive-runnables"]
+	path = 0xmerkle/lcel-deepdive-runnables
+	url = https://github.com/0xmerkle/lcel-deepdive-runnables.git
