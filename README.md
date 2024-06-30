@@ -48,3 +48,7 @@
 
 ### Michael Daigler 
 [What are Runnables in Langchain Expression Language](https://www.youtube.com/watch?v=zREUGA_v3xc)
+
+
+### Coding Crashcourses
+[LangChain Expression Language](https://www.youtube.com/watch?v=LzxSY7197ns)
