@@ -16,3 +16,6 @@
 [submodule "Coding-Crashkurse/LCEL-Deepdive"]
 	path = Coding-Crashkurse/LCEL-Deepdive
 	url = https://github.com/Coding-Crashkurse/LCEL-Deepdive.git
+[submodule "karpathy/micrograd"]
+	path = karpathy/micrograd
+	url = https://github.com/karpathy/micrograd.git
