@@ -15,6 +15,8 @@ git submodule add https://github.com/0xmerkle/lcel-deepdive-runnables.git 0xmerk
 git submodule add https://github.com/Coding-Crashkurse/LCEL-Deepdive.git Coding-Crashkurse/LCEL-Deepdive
 
 
+git submodule add https://github.com/ShawhinT/YouTube-Blog.git ShawhinT/YouTube-Blog
+
 
 git commit -m "initial commit"
 git push -u origin master
