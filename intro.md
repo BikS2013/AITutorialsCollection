@@ -13,9 +13,9 @@ git submodule add https://github.com/karpathy/micrograd.git karpathy/micrograd
 git submodule add https://github.com/aritrasen87/LLM_RAG_Model_Deployment.git AritraSen/LLM_RAG_Model_Deployment
 git submodule add https://github.com/0xmerkle/lcel-deepdive-runnables.git 0xmerkle/lcel-deepdive-runnables
 git submodule add https://github.com/Coding-Crashkurse/LCEL-Deepdive.git Coding-Crashkurse/LCEL-Deepdive
+git submodule add https://github.com/BikS2013/ShawhinT-YouTube-Blog.git ShawhinT/YouTube-Blog
 
-
-git submodule add https://github.com/ShawhinT/YouTube-Blog.git ShawhinT/YouTube-Blog
+rem git submodule add https://github.com/ShawhinT/YouTube-Blog.git ShawhinT/YouTube-Blog
 
 
 git commit -m "initial commit"
